@@ -1,4 +1,4 @@
-[![Node.js CI](https://github.com/Borewit/load-esm/actions/workflows/nodejs-ci.yml/badge.svg)](https://github.com/Borewit/load-esm/actions/workflows/nodejs-ci.yml)
+[![Node.js CI](https://github.com/Unity-Billal-mesloub/load-esm/actions/workflows/nodejs-ci.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/load-esm/actions/workflows/nodejs-ci.yml)
 [![NPM version](https://img.shields.io/npm/v/load-esm.svg)](https://npmjs.org/package/load-esm)
 [![npm downloads](http://img.shields.io/npm/dm/load-esm.svg)](https://npmcharts.com/compare/load-esm?start=365)
 
@@ -123,15 +123,9 @@ Since Node.js 22.12, `require` can load **some** ESM modules, but there are [doc
 
 ---
 
-## License
-
-[MIT](./LICENSE.txt)
-
----
-
 ### Changelog
 
-See [Releases](https://github.com/Borewit/load-esm/releases).
+See [Releases](https://github.com/Unity-Billal-mesloub/load-esm/releases).
 
 ---
 
